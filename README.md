@@ -19,6 +19,18 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ 
+<h2>👨‍💻 Certifications</h2>
+
+- <b>CompTIA Network+</b>
+
+- <b>MTA Mobility and Device Fundamentals</b>
+
+- <b>MTA Security Fundamentals</b>
+
+- <b>MTA Windows Operating System Fundamentals</b>
+
+- <b>MTA Networking Fundamentals</b>
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -27,6 +39,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/sharek-rendon/
+https://www.linkedin.com/in/sharek-rendon/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

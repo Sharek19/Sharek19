@@ -1,11 +1,13 @@
+<body style="background-color: #0000FF;">
+
 <h1>Hi, I'm Sharek! <br/><a href="https://github.com/Sharek19">IT and CyberSecurity Professional <a href="https://www.linkedin.com/in/sharek-rendon/"> </a></h1>
 
 <h2>👨‍💻 Software Development and CyberSecurity Projects:</h2>
 
 - <b>K-9 Packet Sniffer</b>
   - [Project link](https://github.com/Sharek19/K-9-Packet-Sniffer)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Smart Traffic and Parking Inc.</b>
+  - [Project link](https://github.com/Sharek19/Smart-Traffic-Parking-Inc) <b><i></b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)

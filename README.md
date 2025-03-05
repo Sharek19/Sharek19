@@ -8,7 +8,7 @@
   - [Project link](https://github.com/Sharek19/K-9-Packet-Sniffer)
 - <b>Smart Traffic and Parking Inc.</b>
   - [Project link](https://github.com/Sharek19/Smart-Traffic-Parking-Inc) <b><i></b></i>
-- <b>Implementing a SOC and Honeynet in Azure</b>
+- <b>Building a Home SOC in Azure – Threat Detection & Attack Mapping</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)

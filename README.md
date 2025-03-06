@@ -23,6 +23,7 @@ Feel free to explore my repositories where I share code, tools, and resources re
 <h2>📜 Certifications</h2>
 
 - <b>CompTIA Network+</b>
+- <b>Google Cybersecurity Professional (In-Progress)</b>
 
 - <b>MTA Mobility and Device Fundamentals</b>
 

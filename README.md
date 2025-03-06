@@ -4,11 +4,11 @@
 
 <h2>👨‍💻 Software Development and CyberSecurity Projects:</h2>
 
-- <b>K-9 Packet Sniffer</b>
+- <b>🐾K-9 Packet Sniffer</b>
   - [Project link](https://github.com/Sharek19/K-9-Packet-Sniffer)
-- <b>Smart Traffic and Parking Inc.</b>
+- <b>🚦Smart Traffic and Parking Inc.</b>
   - [Project link](https://github.com/Sharek19/Smart-Traffic-Parking-Inc) <b><i></b></i>
-- <b>Building a Home SOC in Azure – Threat Detection & Attack Mapping</b>
+- <b>:honey_pot:Building a Home SOC in Azure – Threat Detection & Attack Mapping</b>
   - [Project Link](https://github.com/Sharek19/SOC-and-HoneyPot-Homelab)
 
  

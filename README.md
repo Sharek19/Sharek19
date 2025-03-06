@@ -2,7 +2,15 @@
 
 <h1>Hi, I'm Sharek! <br/><a href="https://github.com/Sharek19">IT and CyberSecurity Professional <a href="https://www.linkedin.com/in/sharek-rendon/"> </a></h1>
 
-<h2>👨‍💻 Software Development and CyberSecurity Projects:</h2>
+I am an IT and cybersecurity enthusiast with hands-on experience in network security, log analysis, and SOC operations. I'm passionate about securing systems, analyzing threats, and building innovative solutions to safeguard digital environments.
+
+Currently, I'm focusing on cloud security and IoT while gaining practical experience through projects like building home SOCs in Azure, creating network monitoring tools, and secure data transmission.
+
+Feel free to explore my repositories where I share code, tools, and resources related to cybersecurity, network monitoring, and systems security!
+
+
+
+<h2>👨‍💻 CyberSecurity and Software Development Projects:</h2>
 
 - <b>:honey_pot:Building a Home SOC with SIEM Integration in Azure – Threat Detection & Attack Mapping</b>
   - [Project Link](https://github.com/Sharek19/SOC-and-HoneyPot-Homelab)

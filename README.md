@@ -8,7 +8,7 @@
   - [Project link](https://github.com/Sharek19/K-9-Packet-Sniffer)
 - <b>🚦Smart Traffic and Parking Inc.</b>
   - [Project link](https://github.com/Sharek19/Smart-Traffic-Parking-Inc) <b><i></b></i>
-- <b>:honey_pot:Building a Home SOC in Azure – Threat Detection & Attack Mapping</b>
+- <b>:honey_pot:Building a Home SOC with SIEM Integration in Azure – Threat Detection & Attack Mapping</b>
   - [Project Link](https://github.com/Sharek19/SOC-and-HoneyPot-Homelab)
 
  
@@ -27,14 +27,14 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/sharek-rendon/" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30">
+    <span>https://www.linkedin.com/in/sharek-rendon/</span>
+</a>
 
 
-[linkedin]: https://www.linkedin.com/in/sharek-rendon/
-https://www.linkedin.com/in/sharek-rendon/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

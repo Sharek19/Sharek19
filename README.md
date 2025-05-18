@@ -14,6 +14,8 @@ Feel free to explore my repositories where I share code, tools, and resources re
 
 - <b>:honey_pot:Building a Home SOC with SIEM Integration in Azure – Threat Detection & Attack Mapping</b>
   - [Project Link](https://github.com/Sharek19/SOC-and-HoneyPot-Homelab)
+- <b>Splunk SIEM Lab – SSH Log Analysis</b>
+  - [Project Link](https://github.com/Sharek19/Splunk-SIEM-Lab---SSH-Log-Analysis)
 - <b>🔐Penetration Testing Lab: Password Cracking Demonstration</b>
   - [Project Link](https://github.com/Sharek19/Penetration-Testing-Lab-Password-Cracking-Demonstration)
 - <b>🐾K-9 Packet Sniffer</b>

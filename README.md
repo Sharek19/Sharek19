@@ -28,7 +28,7 @@ Feel free to explore my repositories where I share code, tools, and resources re
 
 - <b>CompTIA Network+</b>
 - <b>Google Cybersecurity Professional</b>
-
+- <b>CompTIA Security+ (In Progress)</b>
 - <b>MTA Mobility and Device Fundamentals</b>
 
 - <b>MTA Security Fundamentals</b>
